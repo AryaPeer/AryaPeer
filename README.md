@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning **TensorFlow + Scikit-learn**
 
-- 💬 Ask me about **Data Structures**
+- 💬 Ask me about **C++**
 
 - 📫 How to reach me **apeer@uwaterloo.ca**
