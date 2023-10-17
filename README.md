@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on **Computer Vision Projects**
 - 🌱 I’m currently learning **TensorFlow + Scikit-learn**
 - ✅ Main Languages: **C++, Python, Java**
-- 📫 How to reach me **apeer@uwaterloo.ca**
+- 📫 How to reach me: **apeer@uwaterloo.ca**
 
 
 # 💻 Tech Stack:
