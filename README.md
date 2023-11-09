@@ -7,9 +7,9 @@
 - ✅ Main Languages: **C++, Python, Java**
 - 📫 How to reach me: **apeer@uwaterloo.ca**
 
-<div align="center">
-
 # 💻 Tech Stack:
+
+<div align="center">
 ## 🖥️ Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
