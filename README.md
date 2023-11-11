@@ -2,8 +2,8 @@
 <h3 align="center">A mechatronics engineering student at UWaterloo.</h3>
 
 # 💫 About Me:
-- 🔭 I’m currently working on **Computer Vision Projects**
-- 🌱 I’m currently learning more about **TensorFlow + Scikit-learn**
+- 🔭 I’m currently working on **An AI Image Classifier**
+- 🌱 I’m currently learning more about **TensorFlow**
 - ✅ Main Languages: **C++, Python, Java**
 - 📫 How to reach me: **apeer@uwaterloo.ca**
 
