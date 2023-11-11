@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Arya Peer</h1>
-<h3 align="center">A mechatronics engineering student at UWaterloo.</h3>
+<div align="center">
+
+# Hi 👋, I'm Arya Peer
+<h3>A mechatronics engineering student at UWaterloo.</h3>
 
 # 💫 About Me:
 - 🔭 I’m currently working on **An AI Image Classifier**
 - 🌱 I’m currently learning more about **TensorFlow**
 - ✅ Main Languages: **C++, Python, Java**
 - 📫 How to reach me: **apeer@uwaterloo.ca**
-
 
 # 💻 Tech Stack:
 ## 🖥️ Programming Languages:
@@ -52,3 +53,5 @@
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
