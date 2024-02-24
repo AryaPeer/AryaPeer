@@ -8,8 +8,8 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on **An AI Image Classifier**
-- 🌱 I’m currently learning more about **TensorFlow**
+- 🔭 I’m currently working on **making an OS**
+- 🌱 I’m currently learning more about **Assembly**
 - ✅ Main Languages: **C++, Python, Java**
 - 📫 How to reach me: **apeer@uwaterloo.ca**
 
