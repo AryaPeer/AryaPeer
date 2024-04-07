@@ -8,7 +8,7 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on **making an OS**
+- 🔭 I’m currently working on **making an OS and an ROS2 Robot**
 - 🌱 I’m currently learning more about **Assembly**
 - ✅ Main Languages: **C++, Python, Java**
 - 📫 How to reach me: **apeer@uwaterloo.ca**
