@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Arya Peer
-<h3>A mechatronics engineering student at UWaterloo.</h3>
+<h3>A Mechatronics Engineering Student at UWaterloo.</h3>
 
 </div>
 
