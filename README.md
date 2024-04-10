@@ -8,10 +8,11 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on **making an OS and an ROS2 Robot**
-- 🌱 I’m currently learning more about **Assembly**
-- ✅ Main Languages: **C++, Python, Java**
-- 📫 How to reach me: **apeer@uwaterloo.ca**
+- 🔭 I’m currently working on making a 6502 assembler and an ROS2 Robot
+- 🌱 I’m currently learning more about Assembly
+- 💼 I'm currently working at Schaeffler Aerospace in Stratford
+- ✅ Main Languages: C++, Python, Java
+- 📫 How to reach me: apeer@uwaterloo.ca
 
 <div align="center">
 
