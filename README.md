@@ -10,7 +10,8 @@
 # 💫 About Me:
 - 🔭 I’m currently working on making a 6502 assembler and an ROS2 Robot
 - 🌱 I’m currently learning more about Assembly
-- 💼 I'm currently working at Schaeffler Aerospace in Stratford
+- 💼 I'm currently working at Schaeffler Aerospace
+- 
 - ✅ Main Languages: C++, Python, Java
 - 📫 How to reach me: apeer@uwaterloo.ca
 
