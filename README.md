@@ -8,8 +8,8 @@
 
 
 # 💫 About Me:
-- 🔭 I’m currently working on a C++ Dataframe and Data Structure Library
-- 🌱 I’m currently learning more about ML/AI
+- 🔭 I’m currently working on a Neural Style Transfer Discord Bot
+- 🌱 I’m currently learning more about TensorFlow
 - 💼 I'm currently studying at the University of Waterloo
 - ✅ Main Languages: C++ and Python
 - 📫 How to reach me: apeer@uwaterloo.ca
