@@ -5,8 +5,5 @@
 
 </div>
 
-# 💫 About Me:
-- 🔭 I’m currently working on a Neural Style Transfer Discord Bot
-- 🌱 I’m currently learning more about TensorFlow
-- 💼 I'm currently studying at the University of Waterloo
-- ✅ Main Languages: C++ and Python
+# About Me:
+I enjoy solving challenging problems (in C++ and Python).
