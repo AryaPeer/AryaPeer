@@ -6,4 +6,4 @@
 </div>
 
 # About Me:
-I enjoy solving challenging problems (in C++ and Python).
+Hi! I'm Arya, a mechatronics engineering student fueled by a passion for creating efficient and effective solutions. With a solid grasp of various programming languages (especially C++ and Python), libraries, and developer tools, I'm eager to leverage my skills and expertise to make a difference.
