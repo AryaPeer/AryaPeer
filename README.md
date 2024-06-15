@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Arya Peer
+# Hello 👋, I'm Arya Peer
 <h3>A Mechatronics Engineering Student at UWaterloo.</h3>
 
 </div>
