@@ -6,4 +6,4 @@
 </div>
 
 # About Me:
-I like solving problems and I like C++.
+I like solving logic based problems and I like C++.
