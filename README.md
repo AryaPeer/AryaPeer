@@ -4,6 +4,3 @@
 <h3>A Mechatronics Engineering Student at UWaterloo.</h3>
 
 </div>
-
-# About Me:
-I like solving logic based problems and I like C++.
