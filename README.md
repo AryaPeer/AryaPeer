@@ -1,15 +1,15 @@
 <div align="center">
 
-# Hello World! 👋 I'm Arya Peer
+# Hello, I'm Arya Peer
 
-### Mechatronics Engineering Student @ UWaterloo 
+### A Mechatronics Engineering Student @ UWaterloo 
 
 [Personal Website](https://aryapeer.com) | [LinkedIn](https://linkedin.com/in/aryapeer) | [Email](mailto:apeer@uwaterloo.ca)
 
 </div>
 
-## 🚀 About Me
+## About Me
 
-Mechatronics Engineering student at the University of Waterloo with experience in software/firmware development, controls, and robotics.
+I'm a Mechatronics Engineering Student at the University of Waterloo. 
 
 Passionate about integrating software and hardware to solve real-world challenges.
