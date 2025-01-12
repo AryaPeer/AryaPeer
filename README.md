@@ -10,7 +10,7 @@
 
 ## About Me
 
-3A Mechatronics Engineering student at the University of Waterloo with experience in robotics, software development, and controls. 
+3A Mechatronics Engineering student at the University of Waterloo with experience in robotics, software/firmware development, and controls. 
 
 Passionate about integrating software and hardware solutions to solve complex real-world challenges.
 
