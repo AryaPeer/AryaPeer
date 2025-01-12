@@ -10,6 +10,8 @@
 
 ## About Me
 
-I'm a Mechatronics Engineering Student at the University of Waterloo. 
+3A Mechatronics Engineering student at the University of Waterloo with experience in robotics, software development, and controls. 
 
-Passionate about integrating software and hardware to solve real-world challenges.
+Passionate about integrating software and hardware solutions to solve complex real-world challenges.
+
+<div align="center">
