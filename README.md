@@ -10,7 +10,7 @@
 
 ## About Me
 
-Driven 3A Mechatronics Engineering student at the University of Waterloo with experience in software development. 
+Driven 3A Mechatronics Engineering student at the University of Waterloo with experience in software development and ML/AI. 
 
 Passionate about integrating hardware and software to create innovative solutions that address real-world challenges.
 
