@@ -8,8 +8,3 @@
 
 </div>
 
-## About Me
-
-Driven 3A Mechatronics Engineering student at the University of Waterloo with experience in software development and ML/AI. 
-
-<div align="center">
